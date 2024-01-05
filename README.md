@@ -1,5 +1,5 @@
 ## About Me:
-I'm currently learning Cryptography.<br>Elliot Alderson
+Elliot Alderson
 
 
 ## Socials:
