@@ -17,6 +17,3 @@ I'm currently learning Cryptography.<br>Elliot Alderson
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-<!---[![](https://visitcount.itsvg.in/api?id=ProgrammerParas&icon=1&color=12)](https://visitcount.itsvg.in)---!>
